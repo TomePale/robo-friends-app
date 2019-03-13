@@ -1,7 +1,11 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
+# RoboFirends App - Small React App with Redux
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+App is made following tutorial from [@andreineagoie](https://twitter.com/andreineagoie)
+
+## Install
+    $ git clone git@github.com:TomePale/robo-friends-app.git
+    $ cd PROJECT
+    $ npm install
+    $ npm start
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
